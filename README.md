@@ -17,10 +17,6 @@ pip install -r requirements.txt
 
 ###
 
-### Running the server
-
-Go to http://40.84.53.8:5000/ for OTC Application.
-
 
 ## Example
 
